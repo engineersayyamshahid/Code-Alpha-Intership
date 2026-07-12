@@ -121,9 +121,10 @@ This repository showcases my work completed as part of the **CodeAlpha Python Pr
 
 Feel free to explore the projects, provide feedback, or connect with me.
 
-If you found this repository helpful, don't forget to ⭐ star it!
+💼 **LinkedIn:**  
+https://www.linkedin.com/in/sayyam-shahid-939bb135a
 
----
+If you found this repository helpful, don't forget to ⭐ **Star** this repository!
 
 ## 🌐 CodeAlpha
 
