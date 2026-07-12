@@ -1,0 +1,6 @@
+Stock Portfolio Summary
+-----------------------
+Stock Name : AAPL
+Price      : 180
+Quantity   : 3
+Total Value: 540
