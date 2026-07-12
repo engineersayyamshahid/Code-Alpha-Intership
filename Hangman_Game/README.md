@@ -1,131 +1,49 @@
-# 🚀 Code-Alpha-Intership
-Python internship tasks and projects completed during the CodeAlpha Internship Program. ⭐
+# Hangman Game 🎮
 
-# 🐍 CodeAlpha Python Internship
+## About
+This is a simple Hangman game made in Python. The computer randomly selects a word, and the player has to guess it one letter at a time.
 
-Welcome to my **CodeAlpha Python Programming Internship** repository! This repository contains the projects and tasks I completed during my internship at **CodeAlpha**, where I gained hands-on experience in Python programming by building practical, real-world applications.
+## Features
+- Random word selection
+- 6 lives for the player
+- Correct and incorrect guess messages
+- Displays guessed letters
+- Game Over and Winning message
 
-## 📖 About the Internship
-
-The **CodeAlpha Python Programming Internship** is designed to strengthen Python programming skills through practical assignments and real-world projects. The internship focuses on:
-
-- Python Fundamentals
-- Object-Oriented Programming (OOP)
-- Data Structures
-- File Handling
-- Automation Scripts
-- Problem Solving
-- Working with Python Libraries
-- Building Console Applications
-
-Throughout this internship, I worked on multiple Python projects to improve my coding, logical thinking, and software development skills.
-
----
-
-## 📂 Projects Included
-
-This repository contains the internship tasks assigned by CodeAlpha.
-
-### ✅ Task 1 – Hangman Game
-A console-based Hangman game where players guess letters to reveal a hidden word.
-
-**Concepts Used**
-- Random Module
-- Loops
-- Conditional Statements
-- Strings
-- Lists
-
----
-
-### ✅ Task 2 – Stock Portfolio Tracker
-A simple application that calculates the total value of a stock portfolio using predefined stock prices.
-
-**Concepts Used**
-- Dictionaries
-- User Input
-- Arithmetic Operations
-- File Handling
-
----
-
-### ✅ Task 3 – Task Automation with Python
-Python scripts that automate repetitive tasks such as:
-- File Organization
-- Email Extraction
-- Web Page Title Scraping
-
-**Concepts Used**
-- os
-- shutil
-- re (Regular Expressions)
-- requests
-- File Handling
-
----
-
-### ✅ Task 4 – Basic Chatbot
-A rule-based chatbot capable of responding to basic user inputs.
-
-**Concepts Used**
-- Functions
-- if-elif Statements
-- Loops
-- User Input
-
----
-
-## 🛠️ Technologies Used
-
+## Technologies Used
 - Python 3
-- VS Code
-- Git & GitHub
+- random module
 
----
+## How to Run
 
-## 🎯 Learning Outcomes
+1. Install Python 3.
+2. Download or clone this project.
+3. Open the project folder.
+4. Run the program:
 
-During this internship, I improved my understanding of:
-
-- Python Programming
-- Problem Solving
-- Clean Code Practices
-- File Handling
-- Automation
-- Logic Building
-- GitHub Project Management
-
----
-
-## 📌 Repository Structure
-
-```text
-CodeAlpha/
-│
-├── Hangman_Game/
-├── Stock_Portfolio_Tracker/
-├── Task_Automation/
-├── Basic_Chatbot/
-└── README.md
+```bash
+python main.py
 ```
 
----
+## How to Play
+- The computer chooses a random word.
+- Enter one letter at a time.
+- If the letter is correct, it appears in the word.
+- If the letter is wrong, you lose one life.
+- You have 6 lives to guess the complete word.
 
-## 📜 Internship
+## Example
 
-This repository showcases my work completed as part of the **CodeAlpha Python Programming Internship**.
+```
+🎮 Welcome to Hangman!
 
----
+Word: _ _ _ _ _
+Lives Left: 6
 
-## 🔗 Connect With Me
+Enter a letter: a
+User Guess Correct ✅
+```
 
-Feel free to explore the projects, provide feedback, or connect with me.
+## Author
 
-💼 **LinkedIn:**  
-https://www.linkedin.com/in/sayyam-shahid-939bb135a
-
-If you found this repository helpful, don't forget to ⭐ **Star** this repository!
-
-## 🌐 CodeAlpha
-
-Website: https://www.codealpha.tech
+**Engineer Sayyam Shahid**
