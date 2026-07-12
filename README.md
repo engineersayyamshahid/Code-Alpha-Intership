@@ -1,7 +1,7 @@
-# Code-Alpha-Intership
+# 🚀 Code-Alpha-Intership
 Python internship tasks and projects completed during the CodeAlpha Internship Program. ⭐
 
-# 🚀 CodeAlpha Python Internship
+# 🐍 CodeAlpha Python Internship
 
 Welcome to my **CodeAlpha Python Programming Internship** repository! This repository contains the projects and tasks I completed during my internship at **CodeAlpha**, where I gained hands-on experience in Python programming by building practical, real-world applications.
 
